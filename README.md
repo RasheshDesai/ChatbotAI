@@ -3,7 +3,9 @@ This is an AI-powered chatbot designed to provide intelligent responses based on
 
 🛠️ Tech Stack
 Programming Language: Python
-Frameworks/Libraries: TensorFlow / PyTorch / OpenAI API / Rasa (adjust as per your implementation)
-Backend: Flask / FastAPI (if applicable)
-Database: SQLite / PostgreSQL / Firebase (optional)
+Frameworks/Libraries: TensorFlow / PyTorch / OpenAI API / Rasa
+Backend: Flask / FastAPI
+Database: SQLite / PostgreSQL / Firebase 
 Deployment: Docker / AWS / Heroku
+
+How to run: 
